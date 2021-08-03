@@ -1,0 +1,37 @@
+{
+	"manufacter":{
+				"name":"TRIUMPH",
+				"country":"Reino Unido"
+				},
+	"engine":{
+			"gears":"5",
+			"transmission":"Mecánica",
+			"type":"Gasolina"
+		    },
+	"description":"Con una contundente presencia, la Rocket III Roadster es la moto de serie con el motor más grande del mundo con 2294 centímetros cúbicos.",
+	"id":"Navara",
+	"images":[
+			"img/bikes/rocket-iii-roadster.png",
+			"img/bikes/rocket-iii-roadster2.png",
+			"img/bikes/rocket-iii-roadster3.png",
+			"img/bikes/rocket-iii-roadster4.png",
+			"img/bikes/rocket-iii-roadster5.png",
+			"img/bikes/rocket-iii-roadster6.png"
+			
+			],
+	"name":"ROCKET III ROADSTER",
+	"sizeAndWeight":{
+					"dimensions":[
+								"97 cm (w)",
+								"117 cm (h)",
+								"250 cm (l)"
+								],
+					"weight":"334 kg"
+					},
+	"consumo":{
+			"capacidad":"6.3 (gl)",
+			"rendimiento":"71 (km/gl)",
+			"autonomia":"450 (km)"
+			}
+
+}

@@ -1,0 +1,40 @@
+{
+	"manufacter":{
+				"name":"KMT",
+				"country":"Austria"
+				},
+	"engine":{
+			"gears":"6",
+			"transmission":"Mecánica",
+			"type":"Gasolina"
+		    },
+	"description":"La Super Adventure R es la Travel Enduro más extrema de la historia. Su poderoso motor de 1300 centímetros cúbicos la convierten en una devoradora de km, perfecta para los que salen de ruta sin saber dónde terminarán. Una doble propósito que deja huella vaya a donde vaya.",
+	"id":"Navara",
+	"images":[
+			
+			"img/bikes/super-adventure10.png",
+			"img/bikes/super-adventure11.png",
+			"img/bikes/super-adventure12.png",
+			"img/bikes/super-adventure13.png",
+			"img/bikes/super-adventure14.png",
+			"img/bikes/super-adventure15.png",
+			"img/bikes/super-adventure16.png",
+			"img/bikes/super-adventure17.png"
+			
+			],
+	"name":"1920 SUPER ADVENTURE R",
+	"sizeAndWeight":{
+					"dimensions":[
+								"126 cm (w)",
+								"170 cm (h)",
+								"175 cm (l)"
+								],
+					"weight":"217 kg"
+					},
+	"consumo":{
+			"capacidad":"6 (gl)",
+			"rendimiento":"19 (km/gl)",
+			"autonomia":"428 (km)"
+			}
+
+}

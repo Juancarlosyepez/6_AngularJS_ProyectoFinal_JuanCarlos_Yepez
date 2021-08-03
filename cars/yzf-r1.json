@@ -1,0 +1,36 @@
+{
+	"manufacter":{
+				"name":"YAMAHA",
+				"country":"Japan"
+				},
+	"engine":{
+			"gears":"6",
+			"transmission":"Semiautomática",
+			"type":"Gasolina"
+		    },
+	"description":"La Kawasaki Ninja H2R reúne todo un arsenal de prestaciones tecnológicas para viajar a la velocidad de la luz. Con una aceleración nunca antes vista sobre dos ruedas, esta salvaje carenada de 1000 cc ofrece una experiencia de conducción única e intuitiva a más de 390 km/h",
+	"id":"Navara",
+	"images":[
+			"img/bikes/yzf-r1.png",
+			"img/bikes/yzf-r12.png",
+			"img/bikes/yzf-r13.png",
+			"img/bikes/yzf-r14.png",
+			"img/bikes/yzf-r15.png",
+			"img/bikes/yzf-r16.png"
+			],
+	"name":"YZF-R1",
+	"sizeAndWeight":{
+					"dimensions":[
+								"69 cm (w)",
+								"115 cm (h)",
+								"205.5 cm (l)"
+								],
+					"weight":"200 kg"
+					},
+	"consumo":{
+			"capacidad":"4.5 (gl)",
+			"rendimiento":"41.78 (km/gl)",
+			"autonomia":"188 (km)"
+			}
+
+}

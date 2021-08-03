@@ -1,0 +1,36 @@
+{
+	"manufacter":{
+				"name":"KAWASAKI",
+				"country":"Japan"
+				},
+	"engine":{
+			"gears":"6",
+			"transmission":"Mecánica",
+			"type":"Gasolina"
+		    },
+	"description":"La Kawasaki Ninja H2R reúne todo un arsenal de prestaciones tecnológicas para viajar a la velocidad de la luz. Con una aceleración nunca antes vista sobre dos ruedas, esta salvaje carenada de 1000 cc ofrece una experiencia de conducción única e intuitiva a más de 390 km/h",
+	"id":"Navara",
+	"images":[
+			"img/bikes/kawasaki-ninja-h2r.png",
+			"img/bikes/kawasaki-ninja-h2r2.png",
+			"img/bikes/kawasaki-ninja-h2r3.png",
+			"img/bikes/kawasaki-ninja-h2r4.png",
+			"img/bikes/kawasaki-ninja-h2r5.png",
+			"img/bikes/kawasaki-ninja-h2r6.png"
+			],
+	"name":"NINJA H2R",
+	"sizeAndWeight":{
+					"dimensions":[
+								"77 cm (w)",
+								"116 cm (h)",
+								"207 cm (l)"
+								],
+					"weight":"216 kg"
+					},
+	"consumo":{
+			"capacidad":"4.5 (gl)",
+			"rendimiento":"57 (km/gl)",
+			"autonomia":"256.5 (km)"
+			}
+
+}

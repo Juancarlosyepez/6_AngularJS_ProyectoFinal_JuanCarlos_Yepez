@@ -1,0 +1,39 @@
+[
+
+    {
+        "model": "NINJA H2R", 
+        "id": "kawasaki-ninja-h2r", 
+        "imageUrl": "img/bikes/kawasaki-ninja-h2r.png", 
+        "name": "NINJA H2R", 
+        "snippet": "La Ninja H2R está lista para partir con el primer adrenalínico que se atraviese en su camino."
+    },
+    {
+        "model": "TIGER EXPLORER", 
+        "id": "tiger-explorer-xcx", 
+        "imageUrl": "img/bikes/tiger-explorer-xcx.png", 
+        "name": "TIGER EXPLORER", 
+        "snippet": "Ya sea para una auténtica travesía al rededor del mundo o para simplemente superar los obstáculos del tráfico día a día."
+    },
+    {
+        "model": "ROCKET III", 
+        "id": "rocket-iii-roadster", 
+        "imageUrl": "img/bikes/rocket-iii-roadster.png", 
+        "name": "ROCKET III ROADSTER", 
+        "snippet": "Con una contundente presencia, la Rocket III Roadster es la moto de serie con el motor más grande del mundo con 2294 centímetros cúbicos."
+    },
+    {
+        "model": "SUPER ADVENTURE", 
+        "id": "super-adventure", 
+        "imageUrl": "img/bikes/super-adventure10.png", 
+        "name": "SUPER ADVENTURE R", 
+        "snippet": "La Super Adventure R es la Travel Enduro más extrema de la historia. Su poderoso motor de 1300 centímetros cúbicos la convierten en una devoradora de km, perfecta para los que salen de ruta sin saber dónde terminarán. Una doble propósito que deja huella vaya a donde vaya."
+    },
+    {
+        "model": "YZF-R1", 
+        "id": "yzf-r1", 
+        "imageUrl": "img/bikes/yzf-r1.png", 
+        "name": "YZF-R1", 
+        "snippet": "Con la tecnología y cualidades de la YZR-M1, motocicleta que brilla en el MotoGP, Yamaha nos presenta su super deportiva R1. Una moto diseñada para llevar las más altas prestaciones de las motos de competencia a las calles de la ciudad, donde el piloto y su compacto chasis se fusionarán haciéndose uno solo."
+    }
+
+]

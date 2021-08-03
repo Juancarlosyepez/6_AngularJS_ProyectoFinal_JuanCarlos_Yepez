@@ -1,0 +1,35 @@
+{
+	"manufacter":{
+				"name":"TRIUMPH",
+				"country":"Japan"
+				},
+	"engine":{
+			"gears":"6",
+			"transmission":"Mecánica",
+			"type":"Gasolina"
+		    },
+	"description":"Ya sea para una auténtica travesía al rededor del mundo o para simplemente superar los obstáculos del tráfico día a día.",
+	"id":"Navara",
+	"images":[
+			"img/bikes/tiger-explorer-xcx.png",
+			"img/bikes/tiger-explorer-xcx2.png",
+			"img/bikes/tiger-explorer-xcx3.png",
+			"img/bikes/tiger-explorer-xcx4.png"
+			
+			],
+	"name":"TIGER EXPLORER",
+	"sizeAndWeight":{
+					"dimensions":[
+								"83 cm (w)",
+								"140 cm (h)",
+								"223 cm (l)"
+								],
+					"weight":"253 kg"
+					},
+	"consumo":{
+			"capacidad":"5.2 (gl)",
+			"rendimiento":"58 (km/gl)",
+			"autonomia":"300 (km)"
+			}
+
+}
